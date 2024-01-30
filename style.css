@@ -31,3 +31,9 @@ h1{font-size: 50px;}
   color:white;
   font-weight: 700;
 }
+.middle{
+  display: flex;
+  background-image: url(image/background-image2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
