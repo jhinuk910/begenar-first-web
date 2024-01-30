@@ -37,3 +37,35 @@ h1{font-size: 50px;}
   background-repeat: no-repeat;
   background-position: right;
 }
+.one-tag{
+  margin-left: 5%;
+}
+.footer{
+  background-image: url(image/background-image3.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.footer-contenar{
+  display: flex;
+  padding: 5%;
+}
+.about-hobbies{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  box-shadow: 10px 10px 40px grey;
+}
+.About{
+  border-left: 7px solid;
+  border-image: linear-gradient(orange, cyan);
+  border-image-slice: 1;
+
+}
+.hobbies{
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
